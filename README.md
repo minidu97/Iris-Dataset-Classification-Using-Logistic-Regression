@@ -1,7 +1,8 @@
 # Iris-Dataset-Classification-Using-Logistic-Regression
 This project implements a multi-class logistic regression model to classify Iris flower types. It uses Python libraries to load and prepare the Iris dataset, train the model, evaluate its accuracy, calculate decision scores, and visualize the results graphically.
 
-About
+About:-
+
 This project is a multi-class logistic regression model designed to classify types of Iris flowers based on sepal and petal dimensions. Using numpy, pandas, and matplotlib libraries, the code creates this machine learning model using a dataset of Iris flowers.
 
 The project starts by loading and preparing the dataset - the dataset columns are labelled, the classes of the flower are mapped to numerical data, the features are normalised, and the dataset is split into training and test datasets. This is done through the "load_data" and "prepare_data" functions.
@@ -16,5 +17,6 @@ Finally, the "plot_data" function creates a graphical plot showing the classific
 
 Overall, this project forms a solid example of how to implement a multiclass logistic regression machine learning model in Python with practical data visualization strategies.
 
-Instructions to setup
+Instructions to setup:-
+
 Simply set the path of the downloaded dataset file in the code.
